@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 -->
+- Machine learning & Robotics engineer 
+- Hungry for culture 🤤📚😋  
+- Currently working as AI engineer researcher
 
 <!--
 - 🔭 I’m currently working on ...
