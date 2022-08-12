@@ -19,13 +19,14 @@ Here are some ideas to get you started:
   
 📚 Here a list of projects I have done during my degree (2018 - 2021)
 
-  (Don't take them too seriously, code can be messy or unclear)
+  (Don't take them too seriously, code can be messy or unclear here 😅)
   - [FEM_2D_heat_transmission_MATLAB](https://github.com/luigidamico100/FEM_2D_heat_transmission_MATLAB)
   - [mavros_visp_ompl_exploration](https://github.com/luigidamico100/mavros_visp_ompl_exploration)
   
   <br/>
   
-👯 Let's collaborate
+👯 Let's collaborate!
+
   I am so passioned about everything related to math and machine learning. if you are looking for people to collaborate with for an interesting project contact me!
 
 <br/>
