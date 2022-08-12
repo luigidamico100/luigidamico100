@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   
 👯 Let's collaborate!
 
-  I am so passioned about everything related to math and machine learning. if you are looking for people to collaborate with for an interesting project contact me!
+  I am so passioned about everything related to math and machine learning. If you are looking for people to collaborate with for an interesting project contact me!
 
 <br/>
 
