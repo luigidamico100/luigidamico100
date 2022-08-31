@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <br/>
   
 📚 Here a list of projects I have done during my degree (2018 - 2021)
-
+  - [deep-learning-for-QLUS](https://github.com/luigidamico100/deep-learning-for-QLUS)
   - [FEM_2D_heat_transmission_MATLAB](https://github.com/luigidamico100/FEM_2D_heat_transmission_MATLAB)
   - [mavros_visp_ompl_exploration](https://github.com/luigidamico100/mavros_visp_ompl_exploration)
   
